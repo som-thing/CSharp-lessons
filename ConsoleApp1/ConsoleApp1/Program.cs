@@ -9,13 +9,27 @@ namespace ConsoleApp1
     class Program
     {
         static void Main(string[] args) {
-            String source = "12345678987654321";
+            String source = "1234561";
             int prevnumber = source[1];
-            for(int i = 1; i <= source.Length; i++) {
+            bool res = true;
+            for (int i = 1; i <= source.Length-1; i++) {
                 int currnumber = source[i];
+                if (currnumber - prevnumber != -1 && currnumber - prevnumber != 1 && currnumber - prevnumber != 0)
+                {
+                    res = false;
+                    break;
+                }
+                prevnumber = currnumber;
             }
-
-
+            if (res)
+            {
+                Console.WriteLine("It is");
+            } 
+            else
+            {
+                 Console.WriteLine("It isn't");
+            }
+            Console.ReadLine();
         }
     }
 }
