@@ -9,12 +9,12 @@ namespace ConsoleApp1
     class Program
     {
         static void Main(string[] args) {
-            String source = "1234561";
-            int prevnumber = source[1];
+            String source = "1234565";
+            int prevnumber = source[0];
             bool res = true;
             for (int i = 1; i <= source.Length-1; i++) {
                 int currnumber = source[i];
-                if (currnumber - prevnumber != -1 && currnumber - prevnumber != 1 && currnumber - prevnumber != 0)
+                if (Math.Abs(currnumber - prevnumber) > 1)
                 {
                     res = false;
                     break;

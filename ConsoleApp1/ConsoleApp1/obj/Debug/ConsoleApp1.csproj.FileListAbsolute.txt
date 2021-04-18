@@ -5,3 +5,10 @@ C:\Users\Admin\Documents\GitHub\CSharp-lessons\ConsoleApp1\ConsoleApp1\obj\Debug
 C:\Users\Admin\Documents\GitHub\CSharp-lessons\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\GitHub\CSharp-lessons\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Admin\Documents\GitHub\CSharp-lessons\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\KIBERONE\Documents\GitHub\CSharp-lessons\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\KIBERONE\Documents\GitHub\CSharp-lessons\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\KIBERONE\Documents\GitHub\CSharp-lessons\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\KIBERONE\Documents\GitHub\CSharp-lessons\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\KIBERONE\Documents\GitHub\CSharp-lessons\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\KIBERONE\Documents\GitHub\CSharp-lessons\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\KIBERONE\Documents\GitHub\CSharp-lessons\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
